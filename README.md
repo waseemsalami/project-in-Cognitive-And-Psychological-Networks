@@ -22,7 +22,7 @@ INFJ Personality: https://www.reddit.com/r/infj
 ENFJ Personality: https://www.reddit.com/r/enfj
 Data collection will be performed using the Reddit API.
 
-Objective and Research Questions:
+# Objective and Research Questions:
 Investigating the semantic structure of these two different personality subreddits raises several interesting research questions:
 
 ## Primary Research Question: How do the semantic networks of individuals with introverted personalities differ from the networks of individuals with extroverted personalities?
