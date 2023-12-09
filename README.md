@@ -12,8 +12,9 @@ The MBTI personality test distinguishes and classifies personalities based on fo
 The two personality types we chose to focus on are:
 ENFJ – Extroverted Intuitive Feeling Judging
 INFJ – Introverted Intuitive Feeling Judging
+It can be seen that these two personality types differ only in the first dimension, Introversion (I) / Extroversion (E).
 
-It can be seen that these two personality types differ only in the first dimension, Introversion (I) / Extroversion (E). The reason we chose to compare these two types is that we are interested in examining the difference between semantic networks of introverted individuals compared to extroverted individuals. We are also interested in understanding the impact of introversion/extroversion on our personalities. We thought that if we take two individuals whose personalities are "similar" in every dimension except for the dimension of introversion/extroversion, we can more precisely separate and compare them, and also compare our results with the research findings based on this personality test.
+The reason we chose to compare these two types is that we are interested in examining the difference between semantic networks of introverted individuals compared to extroverted individuals. We are also interested in understanding the impact of introversion/extroversion on our personalities. We thought that if we take two individuals whose personalities are "similar" in every dimension except for the dimension of introversion/extroversion, we can more precisely separate and compare them, and also compare our results with the research findings based on this personality test.
 
 # Data Collection:
 We will collect textual data from the subreddits of the two personalities:
