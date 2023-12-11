@@ -1,6 +1,8 @@
 # project-in-Cognitive-And-Psychological-Networks
 Comparative data analysis of semantic networks between two personality types based on the 'MBTI' personality test, which are INFJ - ENFJ
 
+* If you only intend to view the project you can download the HTML file and open it with any of your browser, otherwise, you can surf through the code in any ipynb lab like Jupyter *
+  
 # Informative background describing the phenomenon:
 The MBTI personality test distinguishes and classifies personalities based on four dichotomous dimensions:
 
