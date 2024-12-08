@@ -8,36 +8,36 @@ Collaborated with peers to analyze semantic networks of introverts (INFJ) and ex
 
 1. Data Collection and Preprocessing: 
 
-* Extracted raw data using the Reddit API (PRAW).
+* Extracted raw data using the *Reddit API (PRAW)*.
 
-* Preprocessed text with tokenization, lemmatization, and stemming using NLTK.
+* Preprocessed text with tokenization, lemmatization, and stemming using *NLTK*.
 
 * Cleaned and filtered text data by removing stop words and irrelevant formats.
 
 
 2. Semantic Network Construction:
 
-* Built semantic networks using word co-occurrence as weighted edges.
+* Built semantic networks using word *co-occurrence* as weighted edges.
 
 * Identified shared nodes between personality groups based on frequent words.
 
 3. Network Analysis:
 
-* Calculated centrality measures, including betweenness and eigenvector centrality, with NetworkX.
+* Calculated centrality measures, including *betweenness and eigenvector centrality, with NetworkX*.
 
 * Conducted statistical analysis on centrality metrics to compare network structures.
 
 4. Community Detection:
 
-* Applied Louvain and Girvan-Newman algorithms to identify and compare communities within semantic networks.
+* Applied *Louvain and Girvan-Newman* algorithms to identify and compare communities within semantic networks.
 
-* Evaluated community modularity to assess network clustering.
+* Evaluated *community modularity* to assess *network clustering*.
 
 5. Visualization:
 
-* Generated network visualizations using iGraph and NetworkX.
+* Generated network visualizations using *iGraph* and NetworkX.
 
-* Created word frequency and centrality-based visualizations with WordCloud, Matplotlib, and Seaborn.
+* Created word frequency and centrality-based visualizations with *WordCloud, Matplotlib, and Seaborn*.
 
 6. Statistical Analysis:
 
@@ -46,11 +46,11 @@ Collaborated with peers to analyze semantic networks of introverts (INFJ) and ex
 * Analyzed correlations between centrality measures and node importance.
 
 ## Python Libraries Used:
-Data Manipulation & Processing: pandas, numpy
-Natural Language Processing: NLTK, PRAW
-Network Analysis: NetworkX, iGraph
-Statistical Tools: scipy.stats
-Visualization: matplotlib, seaborn, WordCloud
+Data Manipulation & Processing: *pandas, numpy*
+Natural Language Processing: *NLTK, PRAW*
+Network Analysis: *NetworkX, iGraph*
+Statistical Tools: *scipy.stats*
+Visualization: *matplotlib, seaborn, WordCloud*
 
 
 * If you only intend to view the project you can either view the ipynb file here (on github) or download the HTML file and open it with any of your browser, otherwise, you can download the ipynb file and surf through the code in any ipynb lab like Jupyter Notebook *
