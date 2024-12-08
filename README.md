@@ -46,10 +46,15 @@ Collaborated with peers to analyze semantic networks of introverts (INFJ) and ex
 * Analyzed correlations between centrality measures and node importance.
 
 ## Python Libraries Used:
+
 Data Manipulation & Processing: *pandas, numpy*
+
 Natural Language Processing: *NLTK, PRAW*
+
 Network Analysis: *NetworkX, iGraph*
+
 Statistical Tools: *scipy.stats*
+
 Visualization: *matplotlib, seaborn, WordCloud*
 
 
