@@ -4,10 +4,9 @@
 Collaborated with peers to analyze semantic networks of introverts (INFJ) and extroverts (ENFJ) using Reddit data. The project examined how personality types influence *semantic network structures*, employing data collection, preprocessing, network analysis, and advanced visualization techniques. Developed insights into differences in *word co-occurrence, network centrality, and community structures*, leveraging state-of-the-art algorithms and statistical methods.
 
 
-
 ** Key Skills and Tools Highlighted:
 
-*** 1. Data Collection and Preprocessing: 
+1. Data Collection and Preprocessing: 
 
 * Extracted raw data using the Reddit API (PRAW).
 
@@ -16,31 +15,31 @@ Collaborated with peers to analyze semantic networks of introverts (INFJ) and ex
 * Cleaned and filtered text data by removing stop words and irrelevant formats.
 
 
-*** 2. Semantic Network Construction:
+2. Semantic Network Construction:
 
 * Built semantic networks using word co-occurrence as weighted edges.
 
 * Identified shared nodes between personality groups based on frequent words.
 
-*** 3. Network Analysis:
+3. Network Analysis:
 
 * Calculated centrality measures, including betweenness and eigenvector centrality, with NetworkX.
 
 * Conducted statistical analysis on centrality metrics to compare network structures.
 
-*** 4. Community Detection:
+4. Community Detection:
 
 * Applied Louvain and Girvan-Newman algorithms to identify and compare communities within semantic networks.
 
 * Evaluated community modularity to assess network clustering.
 
-*** 5. Visualization:
+5. Visualization:
 
 * Generated network visualizations using iGraph and NetworkX.
 
 * Created word frequency and centrality-based visualizations with WordCloud, Matplotlib, and Seaborn.
 
-*** 6. Statistical Analysis:
+6. Statistical Analysis:
 
 * Conducted hypothesis testing (t-tests) to validate differences in network properties.
 
